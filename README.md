@@ -1,4 +1,4 @@
-# Processador RISC de 10 bits em VHDL
+# Processador de 10 bits em VHDL
 
 Projeto desenvolvido para a disciplina de Circuitos Digitais, consistindo na implementação de uma arquitetura de processador de 10 bits descrita em VHDL e sintetizada para a FPGA Intel MAX10.
 
